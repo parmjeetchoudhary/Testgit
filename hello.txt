@@ -1,1 +1,4 @@
 touch aman.txt
+echo "hacking porcess started.............................................. "
+echo "hacking .............................................. "
+echo "hacking done youre data is deleting .............................................. "
